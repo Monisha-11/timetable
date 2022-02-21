@@ -103,7 +103,7 @@ Execute the program
 
 ```
 
-# OUPUT
+# OUTPUT
 ### CLIENT SIDE OUTPUT:
 ![clientside](https://user-images.githubusercontent.com/94184990/143673541-fd97e88e-050c-4440-9f10-4041a1ad6402.PNG)
 
