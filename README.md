@@ -105,38 +105,11 @@ Execute the program
 
 # OUPUT
 ### CLIENT SIDE OUTPUT:
-![CLIENTSIDEOUTPUT](./clientside.png![clientside](https://user-images.githubusercontent.com/94184990/143673541-fd97e88e-050c-4440-9f10-4041a1ad6402.PNG
-))![clientside](https://user-images.githubusercontent.com/93427240/144060512-30a31daa-50b4-40d3-8c3e-246bfb65aba5.png)
-
-### SERVER SIDE OUTPUT:
-
-
-![SERVERSIDEOUTPUT](./serverside 1.png![serverside 1](http://user-image.githubusercontent.com/94184990/143673618-c004a371-b3e3-4471-9443-2315eca5c38a.PNG)![serverside 1](https://user-images.githubusercontent.com/93427240/144060329-c1303cbe-c6ca-4067-9bc1-8bd420f6c1a2.png)
-
-)
-![SERVERSIDEOUTPUT](./serverside 2.png![serverside 2](http://user-image.githubusercontent.com/94184990/143673582-fb72e028-efaa-4fac-be42-02b088db6e7c.PNG)![serverside 2](https://user-images.githubusercontent.com/93427240/144060386-26dd0a76-f23f-4169-ac2b-1a2b053ffece.png)
-
-)
-![SERVERSIDEOUTPUT](./serverside 3.png![serverside 3](http://user-image.githubusercontent.com/94184990/143673594-97f8f7d8-11d4-4db6-a941-9b8dc93284b4.PNG)![serverside 3](https://user-images.githubusercontent.com/93427240/144060455-0335d6d7-12a9-407f-bc0e-149137b035e5.png)
-
-)
+![clientside](https://user-images.githubusercontent.com/94184990/143673541-fd97e88e-050c-4440-9f10-4041a1ad6402.PNG)
 
 ### HTML VALIDATION OUTPUT:
 
 ![HTMLVALIDATIONOUTPUT](./validation1.png)![validation1](https://user-images.githubusercontent.com/93427240/144452965-1e3e9b4a-3bda-4df1-a71b-3a8cad59ddaf.png)
-
-![HTMLVALIDATIONOUTPUT](./validation2.png)![validation2](https://user-images.githubusercontent.com/93427240/144453048-cd073d0f-508f-461b-bad4-2c6d6eca59e8.png)
-
-![HTMLVALIDATIONOUTPUT](./validation3.png)![validation3](https://user-images.githubusercontent.com/93427240/144453113-bd357862-e198-487e-b458-35450d076d14.png)
-
-![HTMLVALIDATIONOUTPUT](./validation4.png)![validation4](https://user-images.githubusercontent.com/93427240/144453189-af2b6b66-7a2d-4106-9c71-5ccaf76cc34a.png)
-
-![HTMLVALIDATIONOUTPUT](./validation5.png)![validation5](https://user-images.githubusercontent.com/93427240/144453238-62950170-78a1-4076-b323-db956c03f486.png)
-
-![HTMLVALIDATIONOUTPUT](./validation6.png)![validation6](https://user-images.githubusercontent.com/93427240/144453295-fa2ea53e-5835-4431-8ef2-ba3f9fcecb36.png)
-
-![HTMLVALIDATIONOUTPUT](./validation7.png)![validation7](https://user-images.githubusercontent.com/93427240/144453356-1a9793f4-422b-402e-924c-17ae4bee13dc.png)
-
 
 ## Result
 Thus, a html webpage is created to display the timetable
