@@ -108,8 +108,7 @@ Execute the program
 ![clientside](https://user-images.githubusercontent.com/94184990/143673541-fd97e88e-050c-4440-9f10-4041a1ad6402.PNG)
 
 ### HTML VALIDATION OUTPUT:
-
-![HTMLVALIDATIONOUTPUT](./validation1.png)![validation1](https://user-images.githubusercontent.com/93427240/144452965-1e3e9b4a-3bda-4df1-a71b-3a8cad59ddaf.png)
+![validation1](https://user-images.githubusercontent.com/93427240/144452965-1e3e9b4a-3bda-4df1-a71b-3a8cad59ddaf.png)
 
 ## Result
 Thus, a html webpage is created to display the timetable
